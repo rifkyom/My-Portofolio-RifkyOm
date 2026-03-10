@@ -100,8 +100,8 @@ function App() {
       sm:hidden" loading='lazy' />
           <p className="text-base/loose mb-10 text-justify">
             Hi, perkenalkan saya Rifky Octory Mulyana, Saya lulusan S1 Teknik Komputer dari Universitas Pendidikan Indonesia. Dengan minat yang mendalam
-            di bidang CyberSecurity, System Administration, dan IT Support. Memiliki pemahaman mengenai
-            konsep dasar jaringan komputer,  manajemen Linux Server, konfigurasi infrastruktur virtual, dan
+            di bidang System Administration, Cloud Computing, dan IT Support. Memiliki pemahaman mengenai
+            konsep dasar jaringan komputer, manajemen Server, konfigurasi infrastruktur virtual, dan
             pemantauan performa infrastruktur IT. Mampu bekerja secara efektif dalam tim untuk mencapai target
             operasional. Berorientasi pada hasil dan siap berkontribusi dalam mengoptimalkan performa server serta
             layanan dukungan IT bagi perusahaan.
