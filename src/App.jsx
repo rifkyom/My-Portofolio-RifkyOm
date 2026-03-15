@@ -99,12 +99,12 @@ function App() {
           <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 
       sm:hidden" loading='lazy' />
           <p className="text-base/loose mb-10 text-justify">
-            Hi, perkenalkan saya Rifky Octory Mulyana, Saya lulusan S1 Teknik Komputer dari Universitas Pendidikan Indonesia. Dengan minat yang mendalam
-            di bidang System Administration, Cloud Computing, dan IT Support. Memiliki pemahaman mengenai
-            konsep dasar jaringan komputer, manajemen Server, konfigurasi infrastruktur virtual, dan
-            pemantauan performa infrastruktur IT. Mampu bekerja secara efektif dalam tim untuk mencapai target
-            operasional. Berorientasi pada hasil dan siap berkontribusi dalam mengoptimalkan performa server serta
-            layanan dukungan IT bagi perusahaan.
+            Hi, perkenalkan saya Rifky Octory Mulyana, Saya lulusan S1 Teknik Komputer dari Universitas Pendidikan Indonesia. Memiliki minat yang mendalam di bidang System Administration, IT Support, serta pengembangan 
+            Front- End. Berpengalaman dalam manajemen Server, konfigurasi infrastruktur virtual, serta 
+            pengembangan antarmuka aplikasi web menggunakan React.js dan Laravel. Mampu bekerja secara 
+            efektif dalam tim untuk mencapai target operasional. Berorientasi pada hasil dan siap berkontribusi 
+            dalam mengoptimalkan performa infrastruktur IT sekaligus mendukung kebutuhan pengembangan 
+            aplikasi perusahaan.
           </p>
           <div className='flex items-center justify-between'>
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden"
