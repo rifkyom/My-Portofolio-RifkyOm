@@ -122,7 +122,7 @@ export const listProyek = [
     gambar: Proyek2,
     nama: "IndoTeknisi",
     desk: "FrontEnd Developer - Rumah Startup Indonesia",
-    tools: ["HTML", "CSS", "Javascript", "AOS", "Bootstrap","PHP", "cPanel"],
+    tools: ["HTML", "CSS", "Javascript", "AOS", "Bootstrap","PHP", "Laravel", "cPanel"],
     dad: "300",
     slug: "indoteknisi",
     linkGithub: "https://github.com/rifkyom/indoteknisi.git",
