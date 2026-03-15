@@ -100,7 +100,7 @@ function App() {
       sm:hidden" loading='lazy' />
           <p className="text-base/loose mb-10 text-justify">
             Hi, perkenalkan saya Rifky Octory Mulyana, Saya lulusan S1 Teknik Komputer dari Universitas Pendidikan Indonesia. Memiliki minat yang mendalam di bidang System Administration, IT Support, serta pengembangan 
-            Front- End. Berpengalaman dalam manajemen Server, konfigurasi infrastruktur virtual, serta 
+            Front-End. Berpengalaman dalam manajemen Server, konfigurasi infrastruktur virtual, serta 
             pengembangan antarmuka aplikasi web menggunakan React.js dan Laravel. Mampu bekerja secara 
             efektif dalam tim untuk mencapai target operasional. Berorientasi pada hasil dan siap berkontribusi 
             dalam mengoptimalkan performa infrastruktur IT sekaligus mendukung kebutuhan pengembangan 
